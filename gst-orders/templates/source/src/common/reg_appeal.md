@@ -1,0 +1,3 @@
+**Your right of appeal**
+
+This order is appealable under section 107 of the CGST Act, 2017. The appeal lies to **an officer not below the rank of Joint Commissioner (Appeals)** [in the office of the Commissioner (Appeals-II), Hyderabad, Headquarters Office, 7th Floor, L.B. Stadium Road, Basheerbagh, Hyderabad – 500 004], because this order is passed by a Superintendent (rule 109A(1)(b) of the CGST Rules, 2017). File it in FORM GST APL-01 on the common portal within **three months** of the date on which this order is communicated to you; the appellate authority may allow one further month for sufficient cause (section 107(4)).
