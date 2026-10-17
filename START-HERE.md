@@ -81,7 +81,7 @@ Build a strong knowledge base domain by domain first, then apply it. Pattern per
 | Folder | What it is | Start with |
 |---|---|---|
 | `gst-law/` | Full CGST/IGST/UTGST Acts and Rules (CBIC text), index of 1,283 notifications and all circulars, GST Council meetings 1–54 checked against minutes | `gst-law/00-overview.md`, gaps in `06-sources-and-gaps.md` |
-| `gst-law/case-law/` | 359 GST judgments; 293 verified on Indian Kanoon with link, quote and para | `00-read-me-first.md`; one-file `GST-case-law-compendium.md` / `.docx` |
+| `gst-law/case-law/` | 364 GST judgments (5 added 17 Oct 2026); 295 verified on Indian Kanoon with link, quote and para | `00-read-me-first.md`; one-file `GST-case-law-compendium.md` / `.docx` |
 | `gst-law/adjudication/` | s.73/74/74A/75 procedure, appeals/GSTAT, court-proof checklist, survey of model orders | `00-read-me-first.md` |
 | `gst-law/registration/` | Registration procedure, checklist, CBIC source PDFs | `00-read-me-first.md` |
 | `gst-orders/templates/` | Word templates: refunds T1–T8, N1, C1; adjudication A1–A5, B1–B5, C2; registration R1–R10. Markdown copies in `markdown/`; sources and builder in `source/` (edit `source/src`, run `source/build.py`, style in `style.py`) | `00-read-me-first.docx` |

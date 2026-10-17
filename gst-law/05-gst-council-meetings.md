@@ -16,7 +16,7 @@
 - Council copy of the release: https://www.gstcouncil.gov.in/sites/default/files/2026-10/press_release.pdf
 - Council FAQs: https://www.gstcouncil.gov.in/sites/default/files/2026-10/faqs_on_recommendations_made_in_57th_gst_council_meeting.pdf
 
-The meeting was chaired by the Union Finance Minister. The 56th meeting dealt with rates; this one dealt mainly with **process reform, ease of doing business and clarifications**. The release says the recommendations take legal effect only once they are implemented through notifications, circulars or amendments to the Act. **As of 12 Oct 2026, none of the implementing notifications or amendments had been found.**
+The meeting was chaired by the Union Finance Minister. The 56th meeting dealt with rates; this one dealt mainly with **process reform, ease of doing business and clarifications**. The release says the recommendations take legal effect only once they are implemented through notifications, circulars or amendments to the Act. **As of 12 Oct 2026, none of the implementing notifications or amendments had been found; still none on a re-check on 17 Oct 2026.** CBIC held outreach meetings with trade on these reforms on 15-16 Oct 2026 (Hyderabad, Chennai, Bengaluru) and sought feedback on a proposed centralised GST administration for taxpayers under Central jurisdiction (a proposal only).
 
 ### A. Process reforms
 **Registration**

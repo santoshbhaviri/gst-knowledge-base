@@ -10,7 +10,7 @@
 
 Entries are grouped under the earlier file they belong to (for example, "Additions to refunds"). Read this file with those files, not on its own.
 
-**Date compiled:** 14 Oct 2026.
+**Date compiled:** 14 Oct 2026. **Updated:** 17 Oct 2026 (5 entries added; 57th Council status re-checked).
 
 > Compiled from web-search summaries. On 14 Oct 2026, 21 entries were checked against the judgment text on Indian Kanoon (marked "Primary"); the rest remain secondary. See the verification log at the end.
 
@@ -71,7 +71,7 @@ Entries are grouped under the earlier file they belong to (for example, "Additio
   - Rule 86A: a right to object and to a hearing.
   - E-way bill interception limits, and no s.130 confiscation of goods in transit.
 - Binding: no. The release itself says the recommendations take effect only through notifications, circulars or amendments to the Act.
-- Later history: **no amending Bill, ordinance or notification was found as of 14 Oct 2026.** One news source says the changes are expected from 1 Apr 2027. Sources differ slightly on the date (8 vs 9 Oct); the official release says 8 Oct.
+- Later history: **no amending Bill, ordinance or notification was found as of 14 Oct 2026, nor on a re-check on 17 Oct 2026.** From 15-16 Oct 2026 the CBIC Chairman and Member (GST) held outreach meetings with trade on the 57th Council reforms (Hyderabad, Chennai, Bengaluru), and sought feedback on a proposed centralised GST administration for taxpayers under Central jurisdiction (a proposal, not a decision). One news source says the changes are expected from 1 Apr 2027. Sources differ slightly on the date (8 vs 9 Oct); the official release says 8 Oct.
 - Use in orders: do not apply these as law yet. Arrest law under s.69 still runs (*Radhika Agarwal*, *Sunil Biyani*, file 04). Expect noticees to cite the Council's "intent" (for example, on 86A hearings or e-way bill transit checks). Answer that the provisions are unamended, while giving a hearing anyway where natural justice already requires one.
 - Source: [Moneylife - Council recommends scrapping arrest powers](https://www.moneylife.in/article/gst-council-recommends-scrapping-arrest-powers-raises-prosecution-threshold-to-5-crore/81904.html); [Taxscan - 57th Council proposes refund of capital goods and input services ITC](https://www.taxscan.in/gst/refund-of-accumulated-itc-57th-gst-council-proposes-inclusion-of-capital-goods-and-input-services); [StudyCafe - proposed removal of s.69](https://studycafe.in/57th-gst-council-meeting-proposed-removal-of-arrest-provision-under-section-69-and-changes-to-prosecution-rules-427363.html)
 - Verified: Secondary (news, several agree), plus the official release as recorded in the project notes.
@@ -191,6 +191,15 @@ Entries are grouped under the earlier file they belong to (for example, "Additio
 
 ---
 
+### Union of India v. ABB Global Industries and Services Pvt Ltd - Karnataka HC (Division Bench: Vibhu Bakhru CJ and K.S. Hemalekha J.) - 15 Sep 2026
+- Citation / case no.: Writ Appeal No. 1524 of 2026, arising from W.P. No. 23839 of 2023 (148-day delay in filing the appeal condoned).
+- Holding: The Revenue's appeal against a single-judge order directing refund of IGST paid on exports of services (Dec 2019) was dismissed. The single judge had followed the Karnataka HC's earlier decision in *Hikal Ltd v. Union of India* (rule 96(10) omitted from 08.10.2024 without a saving clause, so pending rule 96(10) proceedings fall). The Revenue's reliance on *Goodluck India* (SC, 06.08.2026) did not help it: that judgment itself holds that proceedings under the omitted rule cannot continue.
+- Binding: Karnataka; persuasive in Telangana. Follows the binding SC ruling in *Goodluck India* (file 01).
+- Later history: none found.
+- Use in orders: confirms the *Goodluck India* position; do not resist or withhold an export refund on rule 96(10) grounds in any matter pending on 08.10.2024. Revenue appeals on this point now risk costs and interest.
+- Source: [Indian Kanoon - WA 1524/2026, 15 Sep 2026](https://indiankanoon.org/doc/129893674/); [TaxGuru - Hikal Ltd, Karnataka HC (7 Oct 2026)](https://taxguru.in/goods-and-service-tax/pending-rule-96-10-gst-proceedings-cannot-survive-omission-karnataka-hc.html)
+- Verified: Primary - read on Indian Kanoon 17 Oct 2026 (bench, case number, date, result). The single-judge *Hikal Ltd* judgment itself was not found on Indian Kanoon; its holding is as reported by TaxGuru and as recorded in this DB judgment.
+
 ## 4. Additions to input tax credit (file 02)
 
 ### Union of India v. Sahil Enterprises - Supreme Court (J.B. Pardiwala and K. Vinod Chandran JJ.) - stay order 1 Sep 2026
@@ -269,6 +278,24 @@ Entries are grouped under the earlier file they belong to (for example, "Additio
 - Key words: "the petitioner is permitted to file an appeal before the GSTAT and the appeal shall be entertained without a pre-deposit. However, this will be subject to the outcome of the present petition." (para 5)
 - Contrary: Orissa HC, 15 May 2026 (party name not found), held s.112(8) pre-deposit mandatory.
 
+### T G S Trading Co. v. Superintendent - Kerala HC - 2026 (date and bench not found; reported 2026)
+- Citation / case no.: not found (TaxGuru gives it only to paid members).
+- Holding: A single composite SCN, and the order on it, covering several financial years were quashed as not legally sustainable, with liberty to issue separate notices year by year. The period from the impugned order to receipt of the certified copy of the judgment is to be excluded when computing limitation for the fresh notices. It followed two Kerala HC Division Bench rulings: *Joint Commissioner (Intelligence & Enforcement) v. Lakshmi Mobiles Accessories* (2025 KHC OnLine 149) and *Tharayil Medicals v. Deputy Commissioner, Thrissur* (2025 KHC OnLine 467).
+- Binding: Kerala; persuasive only in Telangana, where *Goldstone Infra* (Telangana DB, 27.01.2026) binds and allows one SCN for several years.
+- Later history: none found. Adds Kerala (DB) to the courts against composite SCNs (with Madras *Titan*, Bombay *Milroc* pending the *Rollmet* Larger Bench, and Karnataka single-judge *Bangalore Golf Club*, since overruled), against Delhi, Allahabad and Telangana which allow them.
+- Use in orders: in Telangana a composite SCN is lawful under *Goldstone Infra*, but year-wise SCNs (or at least year-wise computation and year-wise limitation recorded in the SCN) remain the safer course, as already advised.
+- Source: [TaxGuru - Kerala HC quashes composite GST notice covering multiple years](https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-composite-gst-notice-covering-multiple-years.html)
+- Verified: Secondary - TaxGuru summary only; the judgment and the two Kerala DB rulings were not found on Indian Kanoon on 17 Oct 2026. Read the judgment before quoting.
+
+### Manpar Icon Technologies v. Assistant Commissioner, CGST Division - Supreme Court - order date not found (reported 6 Oct 2026)
+- Citation / case no.: not found.
+- Holding: The SC declined to interfere with a High Court order dismissing the writ on the ground of an alternative remedy, but extended the time to file an appeal under s.107 to 16 Oct 2026. It did not decide the validity of the corrigendum, limitation or the disputed ITC.
+- Binding: order for the parties only.
+- Later history: none found.
+- Use in orders: when a writ is dismissed for alternative remedy and the SC (or HC) extends time, the appellate authority must admit the appeal within the extended time without a separate condonation inquiry.
+- Source: [TaxGuru - SC extends limitation for GST appeal after HC dismisses writ (6 Oct 2026)](https://taxguru.in/goods-and-service-tax/supreme-court-extends-limitation-gst-appeal-hc-dismisses-writ.html)
+- Verified: Secondary - TaxGuru summary only; not found on Indian Kanoon on 17 Oct 2026.
+
 ---
 
 ## 6. Additions to arrest, search and landmark (file 04)
@@ -323,6 +350,15 @@ Entries are grouped under the earlier file they belong to (for example, "Additio
 - Use in orders: treat royalty as consideration for a licence or right to use natural resources (Notification 11/2017-CTR, heading 9973). Record that the SC challenge is pending.
 - Source: [Verdictum - SC issues notice on SLP against Rajasthan HC](https://www.verdictum.in/court-updates/supreme-court/gst-on-mining-royalty-rajasthan-high-court-1451374); [LiveLaw - SC notice on 18% GST on mining rights](https://www.livelaw.in/amp/top-stories/supreme-court-gst-mining-rights-mineral-exploration-royalty-circular-notifications-187149)
 - Verified: Secondary - search summaries (2 sources) (no SC ruling or notice order found on Indian Kanoon on 14 Oct 2026).
+
+### Puneet Batra v. Union of India - Supreme Court (Dipankar Datta and Sheel Nagu JJ.) - 28 Sep 2026 (notice and stay)
+- Citation / case no.: SLP number not found; against Delhi HC (DB) judgment of 18 Sep 2026, 2026:DHC:7976-DB.
+- Holding (interim): The Delhi HC had held that GST officers may search a lawyer's office where there is prima facie evidence that the lawyer committed an offence, and upheld the search of the petitioner-advocate's office and seizure of his computer. The SC issued notice and stayed that judgment.
+- Binding: interim, for the parties only. The Delhi HC ruling is stayed and should not be relied on meanwhile.
+- Later history: pending.
+- Use in orders: avoid searching an advocate's (or other professional's) premises on the strength of the Delhi HC ruling. If it cannot be avoided, record the prima facie material against the professional personally, keep privileged client material out of the seizure, and get the authorisation reasoned on file.
+- Source: [Verdictum - SC stays Delhi HC order on GST search of advocate's office (28 Sep 2026)](https://www.verdictum.in/amp/supreme-court/delhi-high-court-order-on-gsts-search-of-advocates-office-stayed-1622905)
+- Verified: Secondary - Verdictum report; the SC order and the Delhi HC judgment were not read on 17 Oct 2026.
 
 ---
 
@@ -489,6 +525,15 @@ AAR and AAAR rulings bind only the applicant and its jurisdictional officer (s.1
 12. **Microsoft Global Services** (Telangana HC) is now found (with *Qualcom*, 20.03.2024). No Telangana HC GST cash-seizure ruling was found.
 13. As of 14 Oct 2026, 21 entries are **primary** (judgment text read on Indian Kanoon); GSTAT orders, AAR/AAAR rulings and the remaining entries are still secondary.
 
+### M/s SSL Industries Ltd v. Superintendent of Central Tax - Telangana HC (DB: CJ Aparesh Kumar Singh and Vakiti Ramakrishna Reddy J.) - 17.09.2026 - **BINDING IN TELANGANA (procedural)**
+- Citation / case no.: W.P. No. 30752 of 2026.
+- Holding: The writ challenged a DRC-01 summary (30.09.2025), an order-in-original and DRC-07 (26.12.2025) for 2021-22 as void for want of a DIN and of a valid physical or digital signature; the petitioner said it learned of them only from a demand notice of 01.06.2026. At the petitioner's request the court did not go into the merits (para 6), gave liberty to appeal within two weeks with pre-deposit and a condonation application, and directed the appellate authority to consider the delay and, if satisfied, decide the appeal on merits with all grounds open (paras 7-8).
+- Binding: Telangana; procedural only (no ruling on DIN). Decided 13 days before the Full Bench in *Gudla Vanaja* (30.09.2026, file 03), which now holds that an SCN or order without a DIN/RFN is invalid.
+- Later history: none.
+- Use in orders: (1) the Telangana HC is routing DIN and signature challenges to the s.107 appeal where the taxpayer opts for it, so Commissioner (Appeals) and JC (Appeals) will now meet *Gudla Vanaja* grounds in appeals and must apply it; (2) for the Division: check DIN/RFN on every SCN and order before recovery (as already pending for S1-S10), because a DRC-07 recovery on a DIN-less order will be set aside on appeal.
+- Source: [Indian Kanoon - W.P. 30752/2026, 17 Sep 2026](https://indiankanoon.org/doc/183128166/); [TaxGuru (7 Oct 2026)](https://taxguru.in/goods-and-service-tax/telangana-hc-gst-appeal-raising-din-digital-signature-grounds.html)
+- Verified: Primary - read on Indian Kanoon 17 Oct 2026 (bench, W.P. number, date, paras 2-8). *Gudla Vanaja* is not cited in it (it predates the Full Bench).
+
 ---
 
 ## Verification log (14 Oct 2026)
@@ -512,3 +557,12 @@ Checked against judgment text on Indian Kanoon on 14 Oct 2026. The two statutory
   - Dates, benches and case numbers were also added to *Nam Estates*, *Royale Edible*, *King Enterprises* (Telangana case: *Laxmi Fine Chem*), *Safecon* and *HCC-SEW-MEIL*.
 - **Not found on Indian Kanoon (left secondary): 11.** Gujarat Jan 2025 mistaken-payment case; *Gupta Battery House* (2026 interim); GST on royalty (SC); *Sterling & Wilson*, *Augustan Textile Colours*, *Manoranjan Dash*, anti-profiteering PB orders, and the GSTAT s.16(4)/s.50 ruling (GSTAT orders are not on Indian Kanoon); the canteen, demo-vehicle and *Maddi Seetha Devi* AAR/AAAR rulings.
 - **Doubtful: 0.**
+
+## Update log (17 Oct 2026)
+
+Monthly sweep (web search, TaxGuru/Verdictum/trackers, Indian Kanoon via web fetch; the CBIC, Gazette and court sites themselves were not reachable from this session).
+- **Official items:** no Central Tax notification after 02/2026-CT (7 May 2026), no CGST circular after 256/02/2026-GST (25 Jul 2026) and no instruction after 01/2026-GST (3 Aug 2026) was found in trackers (gstindiaonline, a2ztaxcorp, ICAI IDTC). Not confirmed on the CBIC portal itself.
+- **57th Council:** still no implementing notification or amending Bill; CBIC outreach meetings 15-16 Oct 2026 noted above.
+- **Added, Primary (read on Indian Kanoon 17 Oct 2026):** *ABB Global Industries* (Karnataka DB, 15.09.2026, rule 96(10)); *SSL Industries* (Telangana DB, 17.09.2026, DIN/signature grounds sent to appeal).
+- **Added, Secondary:** *T G S Trading Co.* (Kerala HC, composite multi-year SCN quashed); *Manpar Icon Technologies* (SC, time to appeal extended to 16.10.2026); *Puneet Batra* (SC stay, 28.09.2026, search of advocate's office).
+- **Not added:** routine Telangana HC orders giving two weeks to appeal or condoning delay (reported Oct 2026), which add nothing new; Himachal HC *Morepen Laboratories* (recovery notice quashed; facts and date not checked).

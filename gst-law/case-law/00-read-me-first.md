@@ -1,6 +1,6 @@
 # GST case law: read this first
 
-Updated 15 Oct 2026 (checked against judgment text). Part of the GST knowledge base (`/mnt/project-files/gst-law/`). 359 judgments across all GST domains: Supreme Court (50), Telangana High Court marked binding (73), other High Courts, GSTAT, appellate authorities and advance rulings.
+Updated 17 Oct 2026 (5 judgments added; earlier entries checked against judgment text 15 Oct 2026). Part of the GST knowledge base (`/mnt/project-files/gst-law/`). 364 judgments across all GST domains: Supreme Court (52), Telangana High Court marked binding (74), other High Courts, GSTAT, appellate authorities and advance rulings.
 
 ## Start here
 - **[GST-case-law-compendium.md](GST-case-law-compendium.md)** (also as **GST-case-law-compendium.docx** for Word): everything in one place.
@@ -24,7 +24,7 @@ Updated 15 Oct 2026 (checked against judgment text). Part of the GST knowledge b
 | [09-gaps-tribunal-and-updates.md](09-gaps-tribunal-and-updates.md) | Finance Act 2026 and 57th Council effect on case law, first GSTAT decisions, conflicting AARs, answers to earlier doubts |
 
 ## Reliability
-- **Checked against the judgment text on 14-15 Oct 2026.** 293 of 359 entries are now *Primary*: read on Indian Kanoon (or the Telangana HC / SC site) at the operative part, with the judgment as the first source link and a "Key words" quote with paragraph number. Dozens of entries were corrected (wrong court, date, bench, holding or later history); each file's **Verification log** at the end lists them.
+- **Checked against the judgment text on 14-15 Oct 2026.** 295 of 364 entries are now *Primary* (293 checked 14-15 Oct, 2 added 17 Oct): read on Indian Kanoon (or the Telangana HC / SC site) at the operative part, with the judgment as the first source link and a "Key words" quote with paragraph number. Dozens of entries were corrected (wrong court, date, bench, holding or later history); each file's **Verification log** at the end lists them.
 - 64 entries remain *Secondary* (mostly GSTAT orders, advance rulings and recent interim orders not on Indian Kanoon): read those before quoting them. Two are marked **[DOUBTFUL]** (both in file 08) and one "do not cite" (Agriex, file 01).
 - Four entries are marked overruled or reversed: **Bigleap** (unsigned SCNs; overruled by the Telangana HC Full Bench in *Gudla Vanaja*, 30.09.2026, which makes DIN/RFN mandatory), *Bangalore Golf Club* and the Gujarat HC *VKC Footsteps*.
 - Where an entry differs between a domain file and file 05 or 09, the later file (09) carries the update.

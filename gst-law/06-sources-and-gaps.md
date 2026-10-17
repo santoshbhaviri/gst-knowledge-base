@@ -1,6 +1,6 @@
 # Sources used, and what is still missing
 
-**Last updated:** 12 Oct 2026 (after checking Council minutes 1 to 54 and opening the Gazette)
+**Last updated:** 17 Oct 2026 (re-check for new items; earlier: 12 Oct 2026, Council minutes 1 to 54 and the Gazette)
 
 ## Reached
 | Source | Used for |
@@ -26,6 +26,13 @@
 4. **Circular and notification contents:** the index has CBIC's one-line subjects. Full texts were read only for the 2025–26 rule amendments and a few key notifications; any other can be downloaded on request.
 5. **State-specific deviations** in the SGST Acts and State Tax notifications: not on CBIC; needs State portals.
 6. GSTN advisories (gst.gov.in) are not covered.
+
+## Re-check of 17 Oct 2026
+- Done from a session that could not reach the CBIC portal, the Gazette or the court sites directly (no allowed-domains list), so it relied on trackers (gstindiaonline, a2ztaxcorp, ICAI IDTC), news and Indian Kanoon read through web fetch.
+- **Notifications, circulars, instructions:** nothing newer than 02/2026-CT (7 May 2026), Circular 256/02/2026-GST (25 Jul 2026) and Instruction 01/2026-GST (3 Aug 2026) was found. **Confirm on the CBIC portal** when the allowed domains are set up again.
+- **57th Council (8 Oct 2026):** no implementing notification or amending Bill found. CBIC outreach with trade on the reforms on 15-16 Oct 2026 (Hyderabad, Chennai, Bengaluru); a centralised GST administration for Central-jurisdiction taxpayers was floated for feedback.
+- **Finance Act 2026 ss.153-155 (ss.15(3), 34, 54):** no commencement notification found.
+- **Case law:** 5 judgments added (see case-law/09, "Update log (17 Oct 2026)").
 
 ## Closed this session
 - Council meetings 1 to 54 checked against signed minutes, with 12 corrections (12 Oct 2026).
