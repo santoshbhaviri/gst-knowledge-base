@@ -380,6 +380,15 @@ Entries are grouped under the earlier file they belong to (for example, "Additio
 - Verified: Primary - read on Indian Kanoon 14 Oct 2026; case numbers and judge added; "nature of work, not identity of recipient" phrasing replaced with the court's actual reasons.
 - Key words: "the contract ... between the petitioner and RVNL would be covered by Notification 11 of 2017 CGST (RATE) dated 28.06.2017 ... and liable to tax at 12%." (para 18.4)
 
+### M/s SSL Industries Ltd v. Superintendent of Central Tax - Telangana HC (DB: CJ Aparesh Kumar Singh and Vakiti Ramakrishna Reddy J.) - 17.09.2026 - **BINDING IN TELANGANA (procedural)**
+- Citation / case no.: W.P. No. 30752 of 2026.
+- Holding: The writ challenged a DRC-01 summary (30.09.2025), an order-in-original and DRC-07 (26.12.2025) for 2021-22 as void for want of a DIN and of a valid physical or digital signature; the petitioner said it learned of them only from a demand notice of 01.06.2026. At the petitioner's request the court did not go into the merits (para 6), gave liberty to appeal within two weeks with pre-deposit and a condonation application, and directed the appellate authority to consider the delay and, if satisfied, decide the appeal on merits with all grounds open (paras 7-8).
+- Binding: Telangana; procedural only (no ruling on DIN). Decided 13 days before the Full Bench in *Gudla Vanaja* (30.09.2026, file 03), which now holds that an SCN or order without a DIN/RFN is invalid.
+- Later history: none.
+- Use in orders: (1) the Telangana HC is routing DIN and signature challenges to the s.107 appeal where the taxpayer opts for it, so Commissioner (Appeals) and JC (Appeals) will now meet *Gudla Vanaja* grounds in appeals and must apply it; (2) for the Division: check DIN/RFN on every SCN and order before recovery (as already pending for S1-S10), because a DRC-07 recovery on a DIN-less order will be set aside on appeal.
+- Source: [Indian Kanoon - W.P. 30752/2026, 17 Sep 2026](https://indiankanoon.org/doc/183128166/); [TaxGuru (7 Oct 2026)](https://taxguru.in/goods-and-service-tax/telangana-hc-gst-appeal-raising-din-digital-signature-grounds.html)
+- Verified: Primary - read on Indian Kanoon 17 Oct 2026 (bench, W.P. number, date, paras 2-8). *Gudla Vanaja* is not cited in it (it predates the Full Bench).
+
 ---
 
 ## 8. GST Appellate Tribunal (GSTAT): first decisions and procedure
@@ -524,15 +533,6 @@ AAR and AAAR rulings bind only the applicant and its jurisdictional officer (s.1
 11. **Circular 172/04/2022-GST** (canteen proviso) and **Circular 188/20/2022-GST** (unregistered buyer refund on cancellation) are cited from general knowledge and were not search-verified this round.
 12. **Microsoft Global Services** (Telangana HC) is now found (with *Qualcom*, 20.03.2024). No Telangana HC GST cash-seizure ruling was found.
 13. As of 14 Oct 2026, 21 entries are **primary** (judgment text read on Indian Kanoon); GSTAT orders, AAR/AAAR rulings and the remaining entries are still secondary.
-
-### M/s SSL Industries Ltd v. Superintendent of Central Tax - Telangana HC (DB: CJ Aparesh Kumar Singh and Vakiti Ramakrishna Reddy J.) - 17.09.2026 - **BINDING IN TELANGANA (procedural)**
-- Citation / case no.: W.P. No. 30752 of 2026.
-- Holding: The writ challenged a DRC-01 summary (30.09.2025), an order-in-original and DRC-07 (26.12.2025) for 2021-22 as void for want of a DIN and of a valid physical or digital signature; the petitioner said it learned of them only from a demand notice of 01.06.2026. At the petitioner's request the court did not go into the merits (para 6), gave liberty to appeal within two weeks with pre-deposit and a condonation application, and directed the appellate authority to consider the delay and, if satisfied, decide the appeal on merits with all grounds open (paras 7-8).
-- Binding: Telangana; procedural only (no ruling on DIN). Decided 13 days before the Full Bench in *Gudla Vanaja* (30.09.2026, file 03), which now holds that an SCN or order without a DIN/RFN is invalid.
-- Later history: none.
-- Use in orders: (1) the Telangana HC is routing DIN and signature challenges to the s.107 appeal where the taxpayer opts for it, so Commissioner (Appeals) and JC (Appeals) will now meet *Gudla Vanaja* grounds in appeals and must apply it; (2) for the Division: check DIN/RFN on every SCN and order before recovery (as already pending for S1-S10), because a DRC-07 recovery on a DIN-less order will be set aside on appeal.
-- Source: [Indian Kanoon - W.P. 30752/2026, 17 Sep 2026](https://indiankanoon.org/doc/183128166/); [TaxGuru (7 Oct 2026)](https://taxguru.in/goods-and-service-tax/telangana-hc-gst-appeal-raising-din-digital-signature-grounds.html)
-- Verified: Primary - read on Indian Kanoon 17 Oct 2026 (bench, W.P. number, date, paras 2-8). *Gudla Vanaja* is not cited in it (it predates the Full Bench).
 
 ---
 
